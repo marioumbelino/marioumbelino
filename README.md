@@ -10,7 +10,7 @@ Gosto de ir além da análise: penso em pipelines e arquitetura, transformo dado
 
 Atualmente, concentro meus estudos e projetos em:
 
-  <img align="center" alt="Mario-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python para análise e engenharia de dados 
+  <img align="center" alt="Mario-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python para análise e engenharia de dados  
   <img align="center" alt="Mario-SQL" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />SQL e modelagem de dados  
   <img align="center" alt="Mario-Airflow" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />Automação de processos  
   <img align="center" alt="Mario-AWS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />Fundamentos de arquitetura e pipelines de dados    
